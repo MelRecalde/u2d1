@@ -11,11 +11,11 @@ REGOLE
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
 
- /* NUMBER : tutti i tipi di numeri positivi , negativi, interi o decimali e tutte le operazioni,
- STRING : una sequenza di caratteri racchiuse da apici (virgolette o doppie virgolette),
- BOOLEAN : indica se è true o false,
- UNDEFINED : non è stato indicato un valore,
- NULL : indica la mancanza di un valore 
+/* NUMBER : tutti i tipi di numeri positivi , negativi, interi o decimali e tutte le operazioni,
+STRING : una sequenza di caratteri racchiuse da apici (virgolette o doppie virgolette),
+BOOLEAN : indica se è true o false,
+UNDEFINED : non è stato indicato un valore,
+NULL : indica la mancanza di un valore 
 */
 
 /* ESERCIZIO 2
@@ -64,4 +64,4 @@ let name1 = "john";
 let name2 = "John";
 
 console.log(name1 === name2);
-console.log(name1.toLowerCase === name2.toLowerCase);
+console.log(name1.toLowerCase() === name2.toLowerCase());
