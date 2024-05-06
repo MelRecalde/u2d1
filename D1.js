@@ -15,7 +15,7 @@ REGOLE
  STRING : una sequenza di caratteri racchiuse da apici (virgolette o doppie virgolette),
  BOOLEAN : indica se è true o false,
  UNDEFINED : non è stato indicato un valore,
- NULL : indica la mancanza del valore di 
+ NULL : indica la mancanza di un valore 
 */
 
 /* ESERCIZIO 2
